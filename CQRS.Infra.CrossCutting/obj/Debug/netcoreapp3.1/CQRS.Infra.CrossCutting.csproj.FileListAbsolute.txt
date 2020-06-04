@@ -1,0 +1,30 @@
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.deps.json
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.AssemblyInfo.cs
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.csproj.CopyComplete
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.AssemblyInfo.cs
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.deps.json
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.csproj.CopyComplete

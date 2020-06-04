@@ -1,0 +1,22 @@
+C:\Projetos\CQRS\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Domain.deps.json
+C:\Projetos\CQRS\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.csprojAssemblyReference.cache
+C:\Projetos\CQRS\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CQRS\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.AssemblyInfo.cs
+C:\Projetos\CQRS\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.csproj.CopyComplete
+C:\Projetos\CQRS\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Domain.deps.json
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.csprojAssemblyReference.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.AssemblyInfo.cs
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.csproj.CopyComplete
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Domain\obj\Debug\netcoreapp3.1\CQRS.Domain.pdb

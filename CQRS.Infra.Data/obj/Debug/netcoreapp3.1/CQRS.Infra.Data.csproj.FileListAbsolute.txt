@@ -1,0 +1,26 @@
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.AssemblyInfo.cs
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.deps.json
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.csproj.CopyComplete
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.AssemblyInfo.cs
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.deps.json
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Infra.Data\obj\Debug\netcoreapp3.1\CQRS.Infra.Data.csproj.CopyComplete

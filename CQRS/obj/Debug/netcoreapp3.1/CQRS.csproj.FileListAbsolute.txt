@@ -1,0 +1,321 @@
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.exe
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.deps.json
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.runtimeconfig.json
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.runtimeconfig.dev.json
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.pdb
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.csprojAssemblyReference.cache
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfoInputs.cache
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfo.cs
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.RazorTargetAssemblyInfo.cache
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.StaticWebAssets.Manifest.cache
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.StaticWebAssets.xml
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.dll
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.pdb
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.genruntimeconfig.cache
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.csproj.CopyComplete
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.pdb
+C:\Projetos\CQRS\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Projetos\CQRS\CQRS\CQRS\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.csprojAssemblyReference.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfoInputs.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfo.cs
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.exe
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.deps.json
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.runtimeconfig.json
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.runtimeconfig.dev.json
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.CrossCutting.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Infra.Data.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.RazorTargetAssemblyInfo.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.csproj.CopyComplete
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.StaticWebAssets.Manifest.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.StaticWebAssets.xml
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.genruntimeconfig.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Castle.Windsor.MsDependencyInjection.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\CQRS.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Castle.Facilities.AspNetCore.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libuv.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libuv.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libuv.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libuv.so
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\libuv.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libuv.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libuv.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS\obj\Debug\netcoreapp3.1\CQRS.MvcApplicationPartsAssemblyInfo.cs

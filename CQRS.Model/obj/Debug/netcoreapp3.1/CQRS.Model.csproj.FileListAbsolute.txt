@@ -1,0 +1,14 @@
+C:\Projetos\CQRS\CQRS\CQRS.Model\bin\Debug\netcoreapp3.1\CQRS.Model.deps.json
+C:\Projetos\CQRS\CQRS\CQRS.Model\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS\CQRS\CQRS.Model\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.AssemblyInfoInputs.cache
+C:\Projetos\CQRS\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.AssemblyInfo.cs
+C:\Projetos\CQRS\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\bin\Debug\netcoreapp3.1\CQRS.Model.deps.json
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\bin\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\bin\Debug\netcoreapp3.1\CQRS.Model.pdb
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.AssemblyInfoInputs.cache
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.AssemblyInfo.cs
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.dll
+C:\Projetos\CQRS - Event\CQRS\CQRS.Model\obj\Debug\netcoreapp3.1\CQRS.Model.pdb
